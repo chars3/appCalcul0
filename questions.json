@@ -1,0 +1,25 @@
+[{
+        "question": "Qual a derivada de 2x??",
+        "choice1": "x",
+        "choice2": "2",
+        "choice3": "2x",
+        "choice4": "1",
+        "answer": 2
+    },
+    {
+        "question": "Qual a derivada de 5x²?",
+        "choice1": "5x",
+        "choice2": "x²",
+        "choice3": "10x",
+        "choice4": "10",
+        "answer": 3
+    },
+    {
+        "question": "Qual a derivada de 4x³+1",
+        "choice1": "12x²+1",
+        "choice2": "12x²",
+        "choice3": "12x",
+        "choice4": "13x²",
+        "answer": 2
+    }
+]
